@@ -7,3 +7,5 @@ This is a presentation made with reveal.js for SantiagoJs Meetup
 2. Run ```npm install```
 3. Run ```node plugin/notes-server```
 
+This presentation is available at http://lporras.github.io/BtappsPresentation
+
